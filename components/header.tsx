@@ -15,9 +15,9 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex-shrink-0">
             <img 
-              src="/images/logo.png" 
+              src="/images/logo-header.png" 
               alt="Royal Concierge" 
-              className="h-10 w-auto"
+              className="h-12 w-auto"
             />
           </Link>
 
