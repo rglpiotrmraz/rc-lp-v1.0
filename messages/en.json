@@ -1,0 +1,86 @@
+{
+    "Navigation": {
+        "services": "Services",
+        "philosophy": "Philosophy",
+        "membership": "Membership",
+        "contact": "Contact",
+        "requestInvitation": "Apply for Membership"
+    },
+    "Hero": {
+        "title": "Time. The Ultimate Currency.",
+        "subtitle": "Royal Concierge – The Definition of Personal Luxury.",
+        "description": "We are the architects of your leisure. We offer discreet, comprehensive lifestyle and business management for a select circle of individuals who refuse to compromise. From exclusive travel and access to closed events to day-to-day operational support – we are there when you need us, often before you even realize it.",
+        "cta": "Inquire Now",
+        "scroll": "Discover More",
+        "philosophyTeaser": {
+            "title": "Royal Standards",
+            "text": "Discover the philosophy that drives our commitment to excellence.",
+            "link": "Read Our Philosophy"
+        }
+    },
+    "Services": {
+        "title": "Service Collection",
+        "lifestyle": {
+            "title": "Lifestyle Management",
+            "tagline": "The impossible becomes standard.",
+            "description": "Organization of private events, access to members-only clubs, Michelin-star reservations, and crafting unique, bespoke experiences."
+        },
+        "travel": {
+            "title": "Premium Travel",
+            "tagline": "Boundless journeys.",
+            "description": "Private jet and yacht charters, luxury transfers, and comprehensive logistics for both business and leisure travel."
+        },
+        "assets": {
+            "title": "Asset Management",
+            "tagline": "Security and prestige.",
+            "description": "Advisory and brokerage in the acquisition of premium real estate, fine art, and rare collectibles. Estate management during owner absence."
+        },
+        "corporate": {
+            "title": "Corporate Concierge",
+            "tagline": "Supporting leaders.",
+            "description": "Dedicated support for C-level executives, organization of high-level business meetings, relocation programs, and benefits for key personnel."
+        },
+        "wellness": {
+            "title": "Health & Longevity",
+            "tagline": "Harmony of body and mind.",
+            "description": "Priority access to world-class clinics, renowned specialists, and personalized preventive medicine and wellness programs."
+        },
+        "education": {
+            "title": "Elite Education",
+            "tagline": "Investing in the future.",
+            "description": "Strategic advisory on your children's educational path. Assistance with applications to top boarding schools and Ivy League universities."
+        }
+    },
+    "Contact": {
+        "title": "Let's Talk",
+        "requestInvitation": "Request Invitation",
+        "form": {
+            "name": "Full Name",
+            "contact": "Preferred Contact",
+            "methodPhone": "Phone",
+            "methodEmail": "Email",
+            "placeholderPhone": "+ (Country Code) Number",
+            "placeholderEmail": "private@example.com",
+            "preferredTime": "Preferred Time",
+            "timeMorning": "Morning (9-12)",
+            "timeAfternoon": "Afternoon (12-17)",
+            "timeEvening": "Evening (17-20)",
+            "request": "How may we assist?",
+            "submit": "Inquire Discreetly",
+            "submitting": "Processing...",
+            "success": "Thank you. Our Private Manager will be in touch within the next 24 hours."
+        },
+        "manager": {
+            "title": "Private Client Manager",
+            "phone": "Direct Line",
+            "email": "Email Address"
+        }
+    },
+    "About": {
+        "title": "Our Philosophy",
+        "p1": "True luxury is the freedom to enjoy time without the burden of logistics. At Royal Concierge, we believe that every moment of your life should be curated with precision and elegance. We are not just assistants; we are the silent architects of your comfort.",
+        "p2": "Founded on the principles of discretion and anticipation, our agency serves a select group of individuals who demand the extraordinary. We blend traditional concierge etiquette with modern efficiency, ensuring that your requests are met before they are even voiced.",
+        "quote": "The ultimate currency is time. We simply ensure you spend it well.",
+        "p3": "From global travel logistics to intimate family celebrations, our commitment remains the same: perfection in every detail."
+    }
+}

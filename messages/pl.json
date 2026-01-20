@@ -1,0 +1,86 @@
+{
+    "Navigation": {
+        "services": "Usługi",
+        "philosophy": "Filozofia",
+        "membership": "Członkostwo",
+        "contact": "Kontakt",
+        "requestInvitation": "Aplikuj o Członkostwo"
+    },
+    "Hero": {
+        "title": "Czas. Najcenniejsza Waluta.",
+        "subtitle": "Royal Concierge – Definicja Osobistego Luksusu.",
+        "description": "Jesteśmy architektami Twojego wolnego czasu. Oferujemy dyskretne, kompleksowe zarządzanie życiem prywatnym i zawodowym dla wąskiego grona osób, które nie uznają kompromisów. Od ekskluzywnych podróży, przez dostęp do zamkniętych wydarzeń, po codzienne wsparcie operacyjne – jesteśmy tam, gdzie nas potrzebujesz, zanim o tym pomyślisz.",
+        "cta": "Ubiegaj się o Członkostwo",
+        "scroll": "Odkryj Więcej",
+        "philosophyTeaser": {
+            "title": "Królewskie Standardy",
+            "text": "Odkryj filozofię, która kieruje naszym dążeniem do doskonałości.",
+            "link": "Poznaj Naszą Filozofię"
+        }
+    },
+    "Services": {
+        "title": "Kolekcja Usług",
+        "lifestyle": {
+            "title": "Lifestyle Management",
+            "tagline": "Niemożliwe nie istnieje.",
+            "description": "Organizacja prywatnych wydarzeń, dostęp do zamkniętych klubów, rezerwacje w restauracjach Michelin oraz kreowanie unikalnych doświadczeń szytych na miarę."
+        },
+        "travel": {
+            "title": "Premium Travel",
+            "tagline": "Podróż bez granic.",
+            "description": "Czartery prywatnych odrzutowców i jachtów, luksusowe transfery oraz kompleksowa logistyka podróży biznesowych i wypoczynkowych."
+        },
+        "assets": {
+            "title": "Zarządzanie Majątkiem",
+            "tagline": "Bezpieczeństwo i prestiż.",
+            "description": "Doradztwo i pośrednictwo w zakupie nieruchomości premium, dzieł sztuki oraz rzadkich dóbr kolekcjonerskich. Opieka nad rezydencjami pod nieobecność właścicieli."
+        },
+        "corporate": {
+            "title": "Concierge Korporacyjny",
+            "tagline": "Wsparcie liderów.",
+            "description": "Dedykowane wsparcie dla kadry zarządzającej, organizacja spotkań biznesowych na najwyższym szczeblu, programy relokacyjne i benefitowe dla kluczowych pracowników."
+        },
+        "wellness": {
+            "title": "Zdrowie i Długowieczność",
+            "tagline": "Harmonia ciała i umysłu.",
+            "description": "Priorytetowy dostęp do światowej klasy klinik, wybitnych specjalistów oraz spersonalizowane programy medycyny prewencyjnej i wellness."
+        },
+        "education": {
+            "title": "Edukacja Elitarna",
+            "tagline": "Inwestycja w przyszłość.",
+            "description": "Strategiczne doradztwo w zakresie ścieżki edukacyjnej dzieci. Pomoc w aplikacji do najlepszych szkół z internatem i uniwersytetów Ivy League."
+        }
+    },
+    "Contact": {
+        "title": "Porozmawiajmy",
+        "requestInvitation": "Aplikuj o Zaproszenie",
+        "form": {
+            "name": "Imię i Nazwisko",
+            "contact": "Preferowana Forma Kontaktu",
+            "methodPhone": "Telefon",
+            "methodEmail": "Email",
+            "placeholderPhone": "+ (Numer Kierunkowy) Numer",
+            "placeholderEmail": "private@example.com",
+            "preferredTime": "Preferowana Pora",
+            "timeMorning": "Rano (9-12)",
+            "timeAfternoon": "Popołudnie (12-17)",
+            "timeEvening": "Wieczór (17-20)",
+            "request": "Szczegóły Zapytania",
+            "submit": "Wyślij Zgłoszenie",
+            "submitting": "Wysyłanie...",
+            "success": "Twoje zapytanie zostało otrzymane. Nasz zespół skontaktuje się z Tobą wkrótce."
+        },
+        "manager": {
+            "title": "Private Client Manager",
+            "phone": "Bezpośredni Telefon",
+            "email": "Adres Email"
+        }
+    },
+    "About": {
+        "title": "Nasza Filozofia",
+        "p1": "Prawdziwy luksus to wolność cieszenia się czasem bez ciężaru logistyki. W Royal Concierge wierzymy, że każda chwila Twojego życia powinna byc celebrowana z precyzją i elegancją. Nie jesteśmy tylko asystentami; jesteśmy cichymi architektami Twojego komfortu.",
+        "p2": "Zbudowana na fundamentach dyskrecji i antycypacji, nasza agencja służy wąskiemu gronu osób, które wymagają niezwykłości. Łączymy tradycyjną etykietę concierge z nowoczesną efektywnością, zapewniając, że Twoje potrzeby są spełniane, zanim zostaną wypowiedziane.",
+        "quote": "Najcenniejszą walutą jest czas. My po prostu dbamy o to, byś wydał go właściwie.",
+        "p3": "Od globalnej logistyki podróży po kameralne uroczystości rodzinne – nasze zobowiązanie pozostaje niezmienne: perfekcja w każdym detalu."
+    }
+}

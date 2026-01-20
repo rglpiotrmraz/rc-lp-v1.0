@@ -1,27 +1,30 @@
 import { Crown, Plane, Building } from "lucide-react"
-
-const services = [
-  {
-    icon: Crown,
-    title: "Lifestyle",
-    tagline: "Access the inaccessible.",
-    description: "Private events, exclusive reservations, and bespoke experiences crafted for the discerning few.",
-  },
-  {
-    icon: Plane,
-    title: "Travel",
-    tagline: "Private aviation & logistics.",
-    description: "Seamless journeys aboard the world's finest aircraft with comprehensive ground coordination.",
-  },
-  {
-    icon: Building,
-    title: "Assets",
-    tagline: "Real estate & art acquisition.",
-    description: "Discreet procurement of prestigious properties and rare collectibles worldwide.",
-  },
-]
+import { useTranslations } from "next-intl"
 
 export function ServicesSection() {
+  const t = useTranslations('Services')
+
+  const services = [
+    {
+      icon: Crown,
+      title: t('lifestyle.title'),
+      tagline: t('lifestyle.tagline'),
+      description: t('lifestyle.description'),
+    },
+    {
+      icon: Plane,
+      title: t('travel.title'),
+      tagline: t('travel.tagline'),
+      description: t('travel.description'),
+    },
+    {
+      icon: Building,
+      title: t('assets.title'),
+      tagline: t('assets.tagline'),
+      description: t('assets.description'),
+    },
+  ]
+
   return (
     <section id="services" className="py-24 md:py-32 bg-background">
       <div className="max-w-7xl mx-auto px-6">
@@ -29,7 +32,7 @@ export function ServicesSection() {
         <div className="text-center mb-16 md:mb-20">
           <p className="text-gold text-xs tracking-[0.3em] uppercase mb-4">The Royal Standard</p>
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl text-foreground tracking-wide">
-            Our Services
+            {t('title')}
           </h2>
         </div>
 
