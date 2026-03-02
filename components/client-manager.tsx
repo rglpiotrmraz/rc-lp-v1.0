@@ -39,8 +39,8 @@ export function ClientManager() {
                         </p>
                         <p className="text-silver/70 font-sans text-sm">
                             <span className="text-gold/40 mr-3">{t('phone')}</span>
-                            <a href="tel:+48123456789" className="hover:text-gold transition-colors">
-                                +48 123 456 789
+                            <a href="tel:+48570077770" className="hover:text-gold transition-colors">
+                                +48 570 077 770
                             </a>
                         </p>
                     </div>
